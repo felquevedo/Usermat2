@@ -1,5 +1,7 @@
 program teste
 
-print hello world
+print hello
+
+print bye world
 
 end program
